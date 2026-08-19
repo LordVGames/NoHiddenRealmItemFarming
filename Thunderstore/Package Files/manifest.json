@@ -1,0 +1,11 @@
+{
+	"name": "NoHiddenRealmItemFarming",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/LordVGames/NoHiddenRealmItemFarming",
+	"description": "Prevents item drops that aren't temporary and aren't from interactables in hidden realms (by default).",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2121",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.15",
+		"LordVGames-DropSourceForItems-1.0.0"
+	]
+}

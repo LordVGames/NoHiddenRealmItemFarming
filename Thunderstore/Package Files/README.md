@@ -1,0 +1,3 @@
+# NoHiddenRealmItemFarming
+
+Any item drops that aren't temporary or from an interactable of some sort in hidden realm stages (specified through a config setting) will be either made into temporary items (requires alloyed collective) or prevented from dropping entirely, depending on another config setting. There's also a config setting to whitelist certain item tiers from being blocked or made temporary on blacklisted stages.
