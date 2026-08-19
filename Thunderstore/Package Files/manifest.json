@@ -1,6 +1,6 @@
 {
 	"name": "NoHiddenRealmItemFarming",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/LordVGames/NoHiddenRealmItemFarming",
 	"description": "Prevents item drops that aren't temporary and aren't from interactables in hidden realms (by default).",
 	"dependencies": [
